@@ -1,0 +1,1 @@
+C:\Users\Chris\Desktop\SmartCube\contracts\escrow\io\target\debug\libescrow_io.rlib: C:\Users\Chris\Desktop\SmartCube\contracts\contract\src\lib.rs C:\Users\Chris\Desktop\SmartCube\contracts\escrow\io\src\lib.rs
